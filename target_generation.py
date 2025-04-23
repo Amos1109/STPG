@@ -14,9 +14,9 @@ class uniform_loss(nn.Module):
     def forward(self, x):
         return x.matmul(x.T).div(self.t).exp().sum(dim=-1).log().mean()
 
-
-N = 1000
-M = 128
+# 19 for city and 21 for voc
+N = 19
+M = 256
 print("N =", N)
 print("M =", M)
 criterion = uniform_loss()
