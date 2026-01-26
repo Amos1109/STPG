@@ -97,7 +97,7 @@ This code has been tested with Python 3.6, PyTorch 1.0.0 on Ubuntu 18.04.
 
 If you find our work useful in your research, please consider citing:
 
-```
+```bibtex
 @article{hong2026exploiting,
   title={Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-grained Road Scene Understanding},
   author={Hong, Yuting and Wu, Yongkang and Xiao, Hui and Hao, Huazheng and Qiu, Xiaojie and Yao, Baochen and Peng, Chengbin},
