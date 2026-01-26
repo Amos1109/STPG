@@ -1,10 +1,6 @@
 # Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-grained Road Scene Understanding
 
-![architecture](./img/fw_city_all.svg)
-
-> For technical details, please refer to:
->
-> [Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-grained Road Scene Understanding](https://arxiv.org/pdf/2409.12680)
+The official Pytorch implementation of "Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-grained Road Scene Understanding" accepted by *IEEE Transactions on Intelligent Transportation Systems*.
 
 ## (0) Abstract
 
@@ -69,9 +65,6 @@ This code has been tested with Python 3.6, PyTorch 1.0.0 on Ubuntu 18.04.
   ```
 
 
-![Cityscapes](./img/cityshow.svg)
-
-
 ## (3) PascalVOC
 
 * Data preparation
@@ -99,7 +92,7 @@ This code has been tested with Python 3.6, PyTorch 1.0.0 on Ubuntu 18.04.
   cd exp_voc
   python eval.py -e $model.pth -d $GPU-ID
   ```
-![VOC PASCAL 2012](./img/vocshow.svg)
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
