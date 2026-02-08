@@ -99,11 +99,15 @@ If you find our work useful in your research, please consider citing:
 
 ```bibtex
 @article{hong2026exploiting,
-  title={Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-grained Road Scene Understanding},
   author={Hong, Yuting and Wu, Yongkang and Xiao, Hui and Hao, Huazheng and Qiu, Xiaojie and Yao, Baochen and Peng, Chengbin},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2026}
-}
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-Grained Road Scene Understanding}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TITS.2026.3658654}}
+
 ```
 
 ### Acknowledgment
